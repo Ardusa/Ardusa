@@ -19,11 +19,11 @@ Here are some of the technologies and tools I work with:
     <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" style="margin: 0 10px;">
 </p>
 
-<style>
+<!-- <style>
     .badge {
         ![Ardusa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ardusa&show_icons=true&theme=radical&cache_bust=${new Date().getTime()})
     }
-</style>
+</style> -->
 
 ## GitHub Stats
 
